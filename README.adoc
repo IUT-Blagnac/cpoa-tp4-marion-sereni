@@ -102,16 +102,16 @@ endif::[]
 //------------------------------------ 
 == {assignment}
 
-{lastName}:: BRUEL
+{lastName}:: SERENI
 
-{firstName}:: Jean-Michel
+{firstName}:: Marion
 
 {group} #::
 
 [%interactive]
-- [X] {Enseignants}
+- [ ] {Enseignants}
 - [ ] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] Innopolis
@@ -124,7 +124,7 @@ You'll need:
 
 [%interactive]
 * [x] A {Github} account  
-* [ ] A https://gitforwindows.org/[Git Bash] terminal (if you use Window$)
+* [x] A https://gitforwindows.org/[Git Bash] terminal (if you use Window$)
 endif::[]
 ifndef::uk[]
 Il vous faut :
@@ -164,9 +164,9 @@ endif::[]
 ifndef::uk[]
 [%interactive]
 * [x] Clickez sur le lien Github Classroom fourni par votre enseignant (en fait c'est déjà fait si vous lisez ces lignes).
-* [ ] Clonez sur votre machine le projet Github généré pour vous par Github Classroom.  
-* [ ] Modifez le `README` pour modifier Nom, Prénom et Groupe. 
-* [ ] Commit & push:
+* [x] Clonez sur votre machine le projet Github généré pour vous par Github Classroom.  
+* [x] Modifez le `README` pour modifier Nom, Prénom et Groupe. 
+* [x] Commit & push:
 endif::[]
 
 ifndef::backend-pdf[.pass:[<i class="fa fa-github"></i>] commit/push]

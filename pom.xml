@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.iutblagnac</groupId>
-	<artifactId>pizzeria</artifactId>
+	<artifactId>appBanque</artifactId>
 	<version>1.0</version>
-	<name>pizzeria</name>
-	<description>The Pizzeria factory example</description>
+	<name>appBanque</name>
+	<description>example</description>
 
 	<properties>
 		<junit.version>4.13</junit.version>
